@@ -31,6 +31,7 @@ chmod +x scriptname.sh
 # Run with sudo
 sudo ./scriptname.sh
 ```
+---
 ### 2. **Run Directly via wget**
 You can run the script without downloading it permanently:
 ```bash
