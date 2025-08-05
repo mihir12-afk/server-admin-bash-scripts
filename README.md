@@ -36,7 +36,7 @@ You can run the script without downloading it permanently:
 ```bash
 sudo bash <(wget -qO- http://your-server-ip/scriptname.sh)
 ```
-##🛠️Create a Service for the Script (CentOS / AlmaLinux)
+## 🛠️Create a Service for the Script (CentOS / AlmaLinux)
 Creating a service lets you run the script automatically or trigger it easily without navigating to its folder.
 
 Basic Steps:
